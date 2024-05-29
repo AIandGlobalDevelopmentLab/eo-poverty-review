@@ -76,7 +76,7 @@ Learning.” *INJURY PREVENTION* 26 (1): 61–66.
 <https://doi.org/10.1136/injuryprev-2019-043248>.
 
 Jerzak, C. T., F. Johansson, and A. Daoud. 2023. “Image-Based Treatment
-Effect Heterogeneity.” In, 213:531–52.
+Effect Heterogeneity.” *Proceedings of the Second Conference on Causal Learning and Reasoning (CLeaR), Proceedings of Machine Learning Research (PMLR),* 213: 531-552.
 <https://www.scopus.com/inward/record.uri?eid=2-s2.0-85147679914&partnerID=40&md5=7866b08ec210422443d7ad823941845f>.
 
 Ji, J., T. Wang, J. Liu, M. Wang, and W. Tang. 2024. “River Runoff
