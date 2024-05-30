@@ -141,7 +141,7 @@ Jerzak, Connor T., Fredrik Johansson, and Adel Daoud. 2023a.
 “Integrating Earth Observation Data into Causal Inference: Challenges
 and Opportunities.” arXiv. <http://arxiv.org/abs/2301.12985>.
 
-———. 2023b. “Estimating Causal Effects Under Image Confounding Bias with
+Jerzak, Connor T., Fredrik Johansson, and Adel Daoud. 2023b. “Estimating Causal Effects Under Image Confounding Bias with
 an Application to Poverty in Africa.” arXiv.
 <http://arxiv.org/abs/2206.06410>.
 
