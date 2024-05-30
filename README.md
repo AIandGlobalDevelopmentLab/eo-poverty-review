@@ -2,7 +2,7 @@
 
 *Description:* List of papers on earth observation, machine learning, and/or poverty research compiled by [Kazuki Sakamoto](https://www.arch.columbia.edu/faculty/669-kaz-sakamoto) for a systematic literature review in collaboration with [Connor Jerzak](https://connorjerzak.com/) and [Adel Daoud](http://adeldaoud.se/). Feel free to suggest additional papers for inclusion by opening an issue. 
 
-*Paper list*
+*Papers*
 
 Ali, Sahara, Omar Faruque, Yiyi Huang, Md. Osman Gani, Aneesh
 Subramanian, Nicole-Jeanne Schlegel, and Jianwu Wang. 2023. “Quantifying
