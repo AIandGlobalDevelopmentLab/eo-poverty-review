@@ -337,7 +337,7 @@ Network for Aerial Image Scene Feature Representation.” *IEEE Journal of
 Selected Topics in Applied Earth Observations and Remote Sensing* 15:
 5440–54. <https://doi.org/10.1109/JSTARS.2022.3189052>.
 
-———. 2022b. “An Explainable Attention Network for Fine-Grained Ship
+Xiong, Wei, Zhenyu Xiong, and Yaqi Cui. 2022b. “An Explainable Attention Network for Fine-Grained Ship
 Classification Using Remote-Sensing Images.” *IEEE Transactions on
 Geoscience and Remote Sensing* 60: 1–14.
 <https://doi.org/10.1109/TGRS.2022.3162195>.
