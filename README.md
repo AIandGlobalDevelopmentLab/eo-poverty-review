@@ -1,5 +1,4 @@
-#  An Overview of Earth Observation in Poverty Research 
-An Overview of Earth Observation in Poverty Research
+#  An Overview of Earth Observation, Machine Learning, and Poverty Research 
 
 *Papers*
 Ali, Sahara, Omar Faruque, Yiyi Huang, Md. Osman Gani, Aneesh
@@ -8,6 +7,19 @@ Causes of Arctic Amplification via Deep Learning Based Time-Series
 Causal Inference.” In *2023 International Conference on Machine Learning
 and Applications (ICMLA)*, 689–96.
 <https://doi.org/10.1109/ICMLA58977.2023.00101>.
+
+Berrevoets, Jeroen, Krzysztof Kacprzyk, Zhaozhi Qian, and Mihaela van
+der Schaar. 2024. “Causal Deep Learning.” arXiv.
+<http://arxiv.org/abs/2303.02186>.
+
+Biswas, Mriganka Sekhar, and Manmeet Singh. 2022. “Trustworthy Modelling
+of Atmospheric Formaldehyde Powered by Deep Learning.” arXiv.
+<http://arxiv.org/abs/2209.07414>.
+
+Boussard, Julien, Chandni Nagda, Julia Kaltenborn, Charlotte Emilie
+Elektra Lange, Philippe Brouillard, Yaniv Gurwicz, Peer Nowack, and
+David Rolnick. 2023. “Towards Causal Representations of Climate Model
+Data.” arXiv. <http://arxiv.org/abs/2312.02858>.
 
 Camps-Valls, G. 2021. “Perspective on Deep Learning for Earth Sciences.”
 In *Generalization With Deep Learning: For Improvement On Sensing
@@ -31,17 +43,46 @@ Analysis: A Combined Data-Driven Approach by Remote Sensing Information
 and Spatial-Temporal Wireless Data.” *REMOTE SENSING* 15 (4): 1041.
 <https://doi.org/10.3390/rs15041041>.
 
+Chouzenoux, Emilie, and Victor Elvira. 2023. “Sparse Graphical Linear
+Dynamical Systems.” arXiv. <http://arxiv.org/abs/2307.03210>.
+
+Cohrs, Kai-Hendrik, Gherardo Varando, Nuno Carvalhais, Markus
+Reichstein, and Gustau Camps-Valls. 2024. “Causal Hybrid Modeling with
+Double Machine Learning.” arXiv. <http://arxiv.org/abs/2402.13332>.
+
 Das, M., and S. K. Ghosh. 2017. “A Deep-Learning-Based Forecasting
 Ensemble to Predict Missing Data for Remote Sensing Analysis.” *IEEE
 Journal of Selected Topics in Applied Earth Observations and Remote
 Sensing* 10 (12): 5228–36.
 <https://doi.org/10.1109/JSTARS.2017.2760202>.
 
+Debeire, Kevin, Jakob Runge, Andreas Gerhardus, and Veronika Eyring.
+2024. “Bootstrap Aggregation and Confidence Measures to Improve Time
+Series Causal Discovery.” arXiv. <http://arxiv.org/abs/2306.08946>.
+
 Dong, Hongwei, Lingyu Si, Wenwen Qiang, Lamei Zhang, Junzhi Yu, Yuquan
 Wu, Changwen Zheng, and Fuchun Sun. 2024. “A Novel Causal
 Inference-Guided Feature Enhancement Framework for PolSAR Image
 Classification.” *IEEE Transactions on Geoscience and Remote Sensing*
 62: 1–16. <https://doi.org/10.1109/TGRS.2023.3343380>.
+
+Eldhose, Elizabeth, Tejasvi Chauhan, Vikram Chandel, Subimal Ghosh, and
+Auroop R Ganguly. n.d. “Robust Causality and False Attribution in
+Data-Driven Earth Science Discoveries.”
+
+Elvira, Víctor, Émilie Chouzenoux, Jordi Cerdà, and Gustau Camps-Valls.
+2023. “Graphs in State-Space Models for Granger Causality in Climate
+Science.” arXiv. <http://arxiv.org/abs/2307.10703>.
+
+Fernández-Loría, Carlos, and Jorge Loría. 2024. “Causal Scoring: A
+Framework for Effect Estimation, Effect Ordering, and Effect
+Classification.” arXiv. <http://arxiv.org/abs/2206.12532>.
+
+Giannarakis, Georgios, Ilias Tsoumas, Stelios Neophytides, Christiana
+Papoutsa, Charalampos Kontoes, and Diofantos Hadjimitsis. 2023.
+“Understanding the Impacts of Crop Diversification in the Context of
+Climate Change: A Machine Learning Approach.” arXiv.
+<http://arxiv.org/abs/2307.08617>.
 
 Giannarakis, Georgios, Vasileios Sitokonstantinou, Roxanne Suzette
 Lorilla, and Charalampos Kontoes. 2022. “Towards Assessing Agricultural
@@ -54,6 +95,11 @@ and D. Hadjimitsis. 2023. “UNDERSTANDING THE IMPACTS OF CROP
 DIVERSIFICATION IN THE CONTEXT OF CLIMATE CHANGE: A MACHINE LEARNING
 APPROACH.” In, 48:1379–84.
 <https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-1379-2023>.
+
+Go, Eugenia, Kentaro Nakajima, Yasuyuki Sawada, and Kiyoshi Taniguchi.
+2022. “On the Use of Satellite-Based Vehicle Flows Data to Assess Local
+Economic Activity: The Case of Philippine Cities.” {SSRN} {Scholarly}
+{Paper}. Rochester, NY. <https://doi.org/10.2139/ssrn.4057690>.
 
 Gomez-Chova, Luis, Raul Santos-Rodriguez, and Gustau Camps-Valls. 2018.
 “Signal-to-Noise Ratio in Reproducing Kernel Hilbert Spaces.” *PATTERN
@@ -70,6 +116,11 @@ Machine Learning in Energy and Environmental Economics.” *Annual Review
 of Resource Economics* 13: 469–88.
 <https://doi.org/10.1146/annurev-resource-100920-034117>.
 
+Heuer, Helge, Mierk Schwabe, Pierre Gentine, Marco A. Giorgetta, and
+Veronika Eyring. 2023. “Interpretable Multiscale Machine Learning-Based
+Parameterizations of Convection for ICON.” arXiv.
+<http://arxiv.org/abs/2311.03251>.
+
 Jay, Jonathan. 2020. “Alcohol Outlets and Firearm Violence: A
 Place-Based Case-Control Study Using Satellite Imagery and Machine
 Learning.” *INJURY PREVENTION* 26 (1): 61–66.
@@ -78,6 +129,18 @@ Learning.” *INJURY PREVENTION* 26 (1): 61–66.
 Jerzak, C. T., F. Johansson, and A. Daoud. 2023. “Image-Based Treatment
 Effect Heterogeneity.” *Proceedings of the Second Conference on Causal Learning and Reasoning (CLeaR), Proceedings of Machine Learning Research (PMLR),* 213: 531-552.
 <https://www.scopus.com/inward/record.uri?eid=2-s2.0-85147679914&partnerID=40&md5=7866b08ec210422443d7ad823941845f>.
+
+Jerzak, Connor T., and Adel Daoud. 2023. “CausalImages: An R Package for
+Causal Inference with Earth Observation, Bio-Medical, and Social Science
+Images.” arXiv. <http://arxiv.org/abs/2310.00233>.
+
+Jerzak, Connor T., Fredrik Johansson, and Adel Daoud. 2023a.
+“Integrating Earth Observation Data into Causal Inference: Challenges
+and Opportunities.” arXiv. <http://arxiv.org/abs/2301.12985>.
+
+———. 2023b. “Estimating Causal Effects Under Image Confounding Bias with
+an Application to Poverty in Africa.” arXiv.
+<http://arxiv.org/abs/2206.06410>.
 
 Ji, J., T. Wang, J. Liu, M. Wang, and W. Tang. 2024. “River Runoff
 Causal Discovery with Deep Reinforcement Learning.” *Applied
@@ -100,6 +163,11 @@ Li, X., M. Feng, Y. Ran, Y. Su, F. Liu, C. Huang, H. Shen, et al. 2023.
 *Nature Reviews Earth and Environment*.
 <https://doi.org/10.1038/s43017-023-00409-w>.
 
+Liang, X. San, X San Liang, Dake Chen, and Renhe Zhang. 2024.
+“Quantitative Causality, Causality-Guided Scientific Discovery, and
+Causal Machine Learning.”
+<https://doi.org/10.22541/essoar.170913638.81842156/v1>.
+
 Lin, L., L. Di, C. Zhang, L. Guo, H. Zhao, D. Islam, H. Li, Z. Liu, and
 G. Middleton. 2024. “Modeling Urban Redevelopment: A Novel Approach
 Using Time-Series Remote Sensing Data and Machine Learning.” *Geography
@@ -117,10 +185,20 @@ Convolutional Network.” In *2021 IEEE 2nd International Conference on
 Big Data, Artificial Intelligence and Internet of Things Engineering
 (ICBAIE)*, 431–35. <https://doi.org/10.1109/ICBAIE52039.2021.9389851>.
 
+Mateo-Sanchis, Anna, Jordi Muñoz-Marí, Adrián Pérez-Suay, and Gustau
+Camps-Valls. 2020. “Warped Gaussian Processes in Remote Sensing
+Parameter Estimation and Causal Inference.” arXiv.
+<http://arxiv.org/abs/2012.12105>.
+
 Moe, S. Jannicke, John F. Carriger, and Miriam Glendell. 2021.
 “Increased Use of Bayesian Network Models Has Improved Environmental
 Risk Assessments.” *INTEGRATED ENVIRONMENTAL ASSESSMENT AND MANAGEMENT*
 17 (1): 53–61. <https://doi.org/10.1002/ieam.4369>.
+
+Morata-Dolz, Miguel, Diego Bueso, Maria Piles, and Gustau Camps-Valls.
+2020. “Understanding Climate Impacts on Vegetation with Gaussian
+Processes in Granger Causality.” arXiv.
+<http://arxiv.org/abs/2012.03338>.
 
 Mu, Bin, Bo Qin, Shijin Yuan, Xin Wang, and Yuxuan Chen. 2023. “PIRT: A
 Physics-Informed Red Tide Deep Learning Forecast Model Considering
@@ -149,6 +227,10 @@ Based on Automatic Interpretation of Remote Sensing Images.” In *2021
 7th IEEE International Conference on Network Intelligence and Digital
 Content (IC-NIDC)*, 96–101.
 <https://doi.org/10.1109/IC-NIDC54101.2021.9660561>.
+
+Ramachandra, Vikas. n.d. “Causal Inference for Climate Change Events
+from Satellite Image Time Series Using Computer Vision and Deep
+Learning.”
 
 Ratledge, Nathan, Gabe Cadamuro, Brandon de la Cuesta, Matthieu Stigler,
 and Marshall Burke. 2022. “Using Machine Learning to Assess the
@@ -179,6 +261,16 @@ Particle Matter 2.5 Concentration Prediction With Causality Analysis.”
 *IEEE Access* 9: 73230–39.
 <https://doi.org/10.1109/ACCESS.2021.3080828>.
 
+Serdavaa, Batkhurel. 2023. “A Satellite Image Analysis on Housing
+Conditions and the Effectiveness of the Affordable Housing Mortgage
+Program in Mongolia: A Deep Learning Approach.” {SSRN} {Scholarly}
+{Paper}. Rochester, NY. <https://doi.org/10.2139/ssrn.4664966>.
+
+Sharma, Somya, Swati Sharma, Rafael Padilha, Emre Kiciman, and Ranveer
+Chandra. 2024. “Domain Adaptation for Sustainable Soil Management Using
+Causal and Contrastive Constraint Minimization.” arXiv.
+<http://arxiv.org/abs/2401.07175>.
+
 Su, J., D. Chen, D. Zheng, Y. Su, and X. Li. 2023. “The Insight of Why:
 Causal Inference in Earth System Science.” *Science China Earth
 Sciences* 66 (10): 2169–86. <https://doi.org/10.1007/s11430-023-1148-7>.
@@ -203,6 +295,12 @@ Zhu, and Gustau Camps-Valls. 2021. “Toward a Collective Agenda on AI for
 Earth Science Data Analysis.” *IEEE Geoscience and Remote Sensing
 Magazine* 9 (2): 88–104. <https://doi.org/10.1109/MGRS.2020.3043504>.
 
+Wang, Chenguang, Yepeng Liu, Xiaojian Zhang, Xuechun Li, Vladimir
+Paramygin, Arthriya Subgranon, Peter Sheng, Xilei Zhao, and Susu Xu.
+2023. “Causality-Informed Rapid Post-Hurricane Building Damage Detection
+in Large Scale from InSAR Imagery.” arXiv.
+<http://arxiv.org/abs/2310.01565>.
+
 Wang, Guangxing, Guoshuai Dong, Hui Li, Lirong Han, Xuanwen Tao, and
 Peng Ren. 2019. “Remote Sensing Image Synthesis via Graphical Generative
 Adversarial Networks.” In *IGARSS 2019 - 2019 IEEE International
@@ -214,10 +312,22 @@ Interactive Interface for Causal Reasoning.” *IEEE Transactions on
 Visualization and Computer Graphics* 22 (1): 230–39.
 <https://doi.org/10.1109/TVCG.2015.2467931>.
 
+Wang, Yu-Hsiang, You Cartus Bo-Xiang, Hsiung-Ming Liao, Ming-Ching
+Chang, and Richard Tsai. 2024. “Deeppvmap: Deep Photovoltaic Map for
+Efficient Segmentation of Solar Panels from Low-Resolution Aerial
+Imagery.” {SSRN} {Scholarly} {Paper}. Rochester, NY.
+<https://doi.org/10.2139/ssrn.4779346>.
+
 Wei, C.-C. 2014. “Meta-Heuristic Bayesian Networks Retrieval Combined
 Polarization Corrected Temperature and Scattering Index for
 Precipitations.” *Neurocomputing* 136: 71–81.
 <https://doi.org/10.1016/j.neucom.2014.01.030>.
+
+Weichwald, Sebastian, Martin E. Jakobsen, Phillip B. Mogensen, Lasse
+Petersen, Nikolaj Thams, and Gherardo Varando. 2020. “Causal Structure
+Learning from Time Series: Large Regression Coefficients May Predict
+Causal Links Better in Practice Than Small p-Values.” arXiv.
+<http://arxiv.org/abs/2002.09573>.
 
 Xiong, Wei, Zhenyu Xiong, and Yaqi Cui. 2022a. “A Confounder-Free Fusion
 Network for Aerial Image Scene Feature Representation.” *IEEE Journal of
@@ -228,6 +338,16 @@ Selected Topics in Applied Earth Observations and Remote Sensing* 15:
 Classification Using Remote-Sensing Images.” *IEEE Transactions on
 Geoscience and Remote Sensing* 60: 1–14.
 <https://doi.org/10.1109/TGRS.2022.3162195>.
+
+Xu, Fangcao, Jian Sun, Guido Cervone, and Mark Salvador. 2022.
+“Ill-Posed Surface Emissivity Retrieval from Multi-Geometry
+Hyperspectral Images Using a Hybrid Deep Neural Network.” arXiv.
+<http://arxiv.org/abs/2107.04631>.
+
+Xu, Qingsong, Yilei Shi, Jonathan Bamber, Ye Tuo, Ralf Ludwig, and Xiao
+Xiang Zhu. 2024. “Physics-Aware Machine Learning Revolutionizes
+Scientific Paradigm for Machine Learning and Process-Based Hydrology.”
+arXiv. <http://arxiv.org/abs/2310.05227>.
 
 Xu, Zhengyi, Wen Jiang, and Jie Geng. 2024. “Texture-Aware Causal
 Feature Extraction Network for Multimodal Remote Sensing Data
@@ -260,124 +380,3 @@ Architecture for Semantic Change Detection.” *ISPRS Journal of
 Photogrammetry and Remote Sensing* 183 (January): 228–39.
 <https://doi.org/10.1016/j.isprsjprs.2021.10.015>.
 
-*Preprints*
-Berrevoets, Jeroen, Krzysztof Kacprzyk, Zhaozhi Qian, and Mihaela van
-der Schaar. 2024. “Causal Deep Learning.” arXiv.
-<http://arxiv.org/abs/2303.02186>.
-
-Biswas, Mriganka Sekhar, and Manmeet Singh. 2022. “Trustworthy Modelling
-of Atmospheric Formaldehyde Powered by Deep Learning.” arXiv.
-<http://arxiv.org/abs/2209.07414>.
-
-Boussard, Julien, Chandni Nagda, Julia Kaltenborn, Charlotte Emilie
-Elektra Lange, Philippe Brouillard, Yaniv Gurwicz, Peer Nowack, and
-David Rolnick. 2023. “Towards Causal Representations of Climate Model
-Data.” arXiv. <http://arxiv.org/abs/2312.02858>.
-
-Chouzenoux, Emilie, and Victor Elvira. 2023. “Sparse Graphical Linear
-Dynamical Systems.” arXiv. <http://arxiv.org/abs/2307.03210>.
-
-Cohrs, Kai-Hendrik, Gherardo Varando, Nuno Carvalhais, Markus
-Reichstein, and Gustau Camps-Valls. 2024. “Causal Hybrid Modeling with
-Double Machine Learning.” arXiv. <http://arxiv.org/abs/2402.13332>.
-
-Debeire, Kevin, Jakob Runge, Andreas Gerhardus, and Veronika Eyring.
-2024. “Bootstrap Aggregation and Confidence Measures to Improve Time
-Series Causal Discovery.” arXiv. <http://arxiv.org/abs/2306.08946>.
-
-Eldhose, Elizabeth, Tejasvi Chauhan, Vikram Chandel, Subimal Ghosh, and
-Auroop R Ganguly. n.d. “Robust Causality and False Attribution in
-Data-Driven Earth Science Discoveries.”
-
-Elvira, Víctor, Émilie Chouzenoux, Jordi Cerdà, and Gustau Camps-Valls.
-2023. “Graphs in State-Space Models for Granger Causality in Climate
-Science.” arXiv. <http://arxiv.org/abs/2307.10703>.
-
-Fernández-Loría, Carlos, and Jorge Loría. 2024. “Causal Scoring: A
-Framework for Effect Estimation, Effect Ordering, and Effect
-Classification.” arXiv. <http://arxiv.org/abs/2206.12532>.
-
-Giannarakis, Georgios, Ilias Tsoumas, Stelios Neophytides, Christiana
-Papoutsa, Charalampos Kontoes, and Diofantos Hadjimitsis. 2023.
-“Understanding the Impacts of Crop Diversification in the Context of
-Climate Change: A Machine Learning Approach.” arXiv.
-<http://arxiv.org/abs/2307.08617>.
-
-Go, Eugenia, Kentaro Nakajima, Yasuyuki Sawada, and Kiyoshi Taniguchi.
-2022. “On the Use of Satellite-Based Vehicle Flows Data to Assess Local
-Economic Activity: The Case of Philippine Cities.” {SSRN} {Scholarly}
-{Paper}. Rochester, NY. <https://doi.org/10.2139/ssrn.4057690>.
-
-Heuer, Helge, Mierk Schwabe, Pierre Gentine, Marco A. Giorgetta, and
-Veronika Eyring. 2023. “Interpretable Multiscale Machine Learning-Based
-Parameterizations of Convection for ICON.” arXiv.
-<http://arxiv.org/abs/2311.03251>.
-
-Jerzak, Connor T., and Adel Daoud. 2023. “CausalImages: An R Package for
-Causal Inference with Earth Observation, Bio-Medical, and Social Science
-Images.” arXiv. <http://arxiv.org/abs/2310.00233>.
-
-Jerzak, Connor T., Fredrik Johansson, and Adel Daoud. 2023a.
-“Integrating Earth Observation Data into Causal Inference: Challenges
-and Opportunities.” arXiv. <http://arxiv.org/abs/2301.12985>.
-
-———. 2023b. “Estimating Causal Effects Under Image Confounding Bias with
-an Application to Poverty in Africa.” arXiv.
-<http://arxiv.org/abs/2206.06410>.
-
-Liang, X. San, X San Liang, Dake Chen, and Renhe Zhang. 2024.
-“Quantitative Causality, Causality-Guided Scientific Discovery, and
-Causal Machine Learning.”
-<https://doi.org/10.22541/essoar.170913638.81842156/v1>.
-
-Mateo-Sanchis, Anna, Jordi Muñoz-Marí, Adrián Pérez-Suay, and Gustau
-Camps-Valls. 2020. “Warped Gaussian Processes in Remote Sensing
-Parameter Estimation and Causal Inference.” arXiv.
-<http://arxiv.org/abs/2012.12105>.
-
-Morata-Dolz, Miguel, Diego Bueso, Maria Piles, and Gustau Camps-Valls.
-2020. “Understanding Climate Impacts on Vegetation with Gaussian
-Processes in Granger Causality.” arXiv.
-<http://arxiv.org/abs/2012.03338>.
-
-Ramachandra, Vikas. n.d. “Causal Inference for Climate Change Events
-from Satellite Image Time Series Using Computer Vision and Deep
-Learning.”
-
-Serdavaa, Batkhurel. 2023. “A Satellite Image Analysis on Housing
-Conditions and the Effectiveness of the Affordable Housing Mortgage
-Program in Mongolia: A Deep Learning Approach.” {SSRN} {Scholarly}
-{Paper}. Rochester, NY. <https://doi.org/10.2139/ssrn.4664966>.
-
-Sharma, Somya, Swati Sharma, Rafael Padilha, Emre Kiciman, and Ranveer
-Chandra. 2024. “Domain Adaptation for Sustainable Soil Management Using
-Causal and Contrastive Constraint Minimization.” arXiv.
-<http://arxiv.org/abs/2401.07175>.
-
-Wang, Chenguang, Yepeng Liu, Xiaojian Zhang, Xuechun Li, Vladimir
-Paramygin, Arthriya Subgranon, Peter Sheng, Xilei Zhao, and Susu Xu.
-2023. “Causality-Informed Rapid Post-Hurricane Building Damage Detection
-in Large Scale from InSAR Imagery.” arXiv.
-<http://arxiv.org/abs/2310.01565>.
-
-Wang, Yu-Hsiang, You Cartus Bo-Xiang, Hsiung-Ming Liao, Ming-Ching
-Chang, and Richard Tsai. 2024. “Deeppvmap: Deep Photovoltaic Map for
-Efficient Segmentation of Solar Panels from Low-Resolution Aerial
-Imagery.” {SSRN} {Scholarly} {Paper}. Rochester, NY.
-<https://doi.org/10.2139/ssrn.4779346>.
-
-Weichwald, Sebastian, Martin E. Jakobsen, Phillip B. Mogensen, Lasse
-Petersen, Nikolaj Thams, and Gherardo Varando. 2020. “Causal Structure
-Learning from Time Series: Large Regression Coefficients May Predict
-Causal Links Better in Practice Than Small p-Values.” arXiv.
-<http://arxiv.org/abs/2002.09573>.
-
-Xu, Fangcao, Jian Sun, Guido Cervone, and Mark Salvador. 2022.
-“Ill-Posed Surface Emissivity Retrieval from Multi-Geometry
-Hyperspectral Images Using a Hybrid Deep Neural Network.” arXiv.
-<http://arxiv.org/abs/2107.04631>.
-
-Xu, Qingsong, Yilei Shi, Jonathan Bamber, Ye Tuo, Ralf Ludwig, and Xiao
-Xiang Zhu. 2024. “Physics-Aware Machine Learning Revolutionizes
-Scientific Paradigm for Machine Learning and Process-Based Hydrology.”
-arXiv. <http://arxiv.org/abs/2310.05227>.
