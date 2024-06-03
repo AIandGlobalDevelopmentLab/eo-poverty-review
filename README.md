@@ -1,6 +1,6 @@
 #  An Overview of Earth Observation in Poverty Research 
 
-*Description:* List of papers on earth observation, causal inference, machine learning, and/or poverty research compiled by [Kaz Sakamoto](https://www.arch.columbia.edu/faculty/669-kaz-sakamoto) for a systematic literature review in collaboration with [Connor T. Jerzak](https://connorjerzak.com/) and [Adel Daoud](http://adeldaoud.se/).
+*Description:* List of papers on earth observation, causal inference, machine learning, and/or poverty research compiled by [Kaz Sakamoto](https://www.arch.columbia.edu/faculty/669-kaz-sakamoto) for a systematic literature review in collaboration with [Connor T. Jerzak](https://connorjerzak.com/) and [Adel Daoud](http://adeldaoud.se/). To download associated `.bib` files, see [`citations/`](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review/tree/main/citations)
 
 *Contribute:* Suggest additional papers for inclusion by opening [an issue](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review/issues) in this GitHub repository (feel free to suggest your own work!). 
 
