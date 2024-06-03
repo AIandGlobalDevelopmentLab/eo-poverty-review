@@ -385,3 +385,18 @@ Architecture for Semantic Change Detection.” *ISPRS Journal of
 Photogrammetry and Remote Sensing* 183 (January): 228–39.
 <https://doi.org/10.1016/j.isprsjprs.2021.10.015>.
 
+---
+
+#  References
+Kazuki Sakamoto, Connor T. Jerzak, Adel Daoud. Planetary Causal Inference: Implications for the Geography of Poverty. *SocArXiv Preprint,* 2023. [[PDF]](https://osf.io/preprints/osf/vrw6d)
+`
+@article{sakamoto2023planetary,
+  title={Planetary Causal Inference: Implications for the Geography of Poverty},
+  author={Sakamoto, Kazuki and Connor T. Jerzak and Adel Daoud},
+  journal={SocArXiv Preprint},
+  year={2023},
+  volume={},
+  pages={},
+  publisher={}
+}
+`
