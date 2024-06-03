@@ -389,7 +389,7 @@ Photogrammetry and Remote Sensing* 183 (January): 228–39.
 
 #  References
 Kazuki Sakamoto, Connor T. Jerzak, Adel Daoud. Planetary Causal Inference: Implications for the Geography of Poverty. *SocArXiv Preprint,* 2023. [[PDF]](https://osf.io/preprints/osf/vrw6d)
-`
+```
 @article{sakamoto2023planetary,
   title={Planetary Causal Inference: Implications for the Geography of Poverty},
   author={Sakamoto, Kazuki and Connor T. Jerzak and Adel Daoud},
@@ -399,4 +399,4 @@ Kazuki Sakamoto, Connor T. Jerzak, Adel Daoud. Planetary Causal Inference: Impli
   pages={},
   publisher={}
 }
-`
+```
