@@ -5,6 +5,7 @@
 *Contribute:* Suggest additional papers for inclusion by opening [an issue](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review/issues) in this GitHub repository (feel free to suggest your own work!). 
 
 ---
+#  Paper List
 
 Ali, Sahara, Omar Faruque, Yiyi Huang, Md. Osman Gani, Aneesh
 Subramanian, Nicole-Jeanne Schlegel, and Jianwu Wang. 2023. “Quantifying
