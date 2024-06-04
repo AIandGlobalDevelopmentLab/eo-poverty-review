@@ -5,7 +5,7 @@
 *Contribute:* Suggest additional papers for inclusion by opening [an issue](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review/issues) in this GitHub repository (feel free to suggest your own work!). 
 
 ---
-#  Paper List
+## Paper List
 
 Ali, Sahara, Omar Faruque, Yiyi Huang, Md. Osman Gani, Aneesh
 Subramanian, Nicole-Jeanne Schlegel, and Jianwu Wang. 2023. “Quantifying
@@ -388,7 +388,7 @@ Photogrammetry and Remote Sensing* 183 (January): 228–39.
 
 ---
 
-#  Review Reference
+## Review Reference
 Kazuki Sakamoto, Connor T. Jerzak, Adel Daoud. Planetary Causal Inference: Implications for the Geography of Poverty. *SocArXiv Preprint,* 2023. [[PDF]](https://osf.io/preprints/osf/vrw6d)
 ```
 @article{sakamoto2023planetary,
