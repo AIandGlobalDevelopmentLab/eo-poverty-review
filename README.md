@@ -1,11 +1,15 @@
-#  An Overview of Earth Observation in Poverty Research 
+# An Overview of Earth Observation in Machine Learning, Causality, and Poverty Research <a id="overview"></a>
 
 *Description:* List of papers on earth observation, causal inference, machine learning, and/or poverty research compiled by [Kaz Sakamoto](https://github.com/ksakamoto09) for a [systematic literature review](https://osf.io/vrw6d) in collaboration with [Adel Daoud](https://github.com/adeldaoud) and [Connor T. Jerzak](https://github.com/cjerzak). To find associated `.bib` entries, see [`eo-poverty-review/citations`](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review/tree/main/citations). 
 
 *Contribute:* Suggest additional papers for inclusion by opening [an issue](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review/issues) in this GitHub repository (feel free to suggest your own work!). 
 
+[**Overview**](#overview)
+| [**Paper Directory**](#directory)
+| [**References**](#references)
+
 ---
-## Paper List
+## Paper Directory<a id="directory"></a>
 
 Ali, Sahara, Omar Faruque, Yiyi Huang, Md. Osman Gani, Aneesh
 Subramanian, Nicole-Jeanne Schlegel, and Jianwu Wang. 2023. “Quantifying
@@ -388,7 +392,7 @@ Photogrammetry and Remote Sensing* 183 (January): 228–39.
 
 ---
 
-## Review Reference
+## Review Reference<a id="reference"></a>
 Kazuki Sakamoto, Connor T. Jerzak, Adel Daoud. Planetary Causal Inference: Implications for the Geography of Poverty. *SocArXiv Preprint,* 2023. [[PDF]](https://osf.io/preprints/osf/vrw6d)
 ```
 @article{sakamoto2023planetary,
