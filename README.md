@@ -400,9 +400,6 @@ Kazuki Sakamoto, Connor T. Jerzak, Adel Daoud. Planetary Causal Inference: Impli
   author={Sakamoto, Kazuki and Connor T. Jerzak and Adel Daoud},
   journal={ArXiv Preprint},
   year={2023},
-  volume={},
-  pages={},
-  url={https://arxiv.org/abs/2406.02584},
-  publisher={}
+  url={https://arxiv.org/abs/2406.02584}
 }
 ```
