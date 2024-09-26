@@ -5,8 +5,8 @@
 *Contribute:* You can additional papers for inclusion by opening [an issue](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review/issues) in this repo (feel free to suggest your own or other's work!). 
 
 [**Overview**](#overview)
-| [**Paper Directory**](#directory)
-| [**References**](#references)
+| [**Literature Directory**](#directory)
+| [**Reference**](#references)
 
 ---
 ## Paper Directory<a id="directory"></a>
