@@ -1,4 +1,4 @@
-#  Literature Directory: Earth Observation (EO) in Machine Learning (ML), and Causal Inference (CI)  <a id="overview"></a>
+#  Literature Directory: Earth Observation (EO) in Machine Learning (ML) and Causal Inference (CI)  <a id="overview"></a>
 
 *Description:* This repository contains a directory of papers on earth observation, causal inference, machine learning, and/or poverty research compiled by [Kaz Sakamoto](https://github.com/ksakamoto09) for a [scoping literature review](https://arxiv.org/abs/2406.02584) in collaboration with [Adel Daoud](https://github.com/adeldaoud) and [Connor T. Jerzak](https://github.com/cjerzak). To find associated `.bib` entries, see [`eo-poverty-review/citations`](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review/tree/main/citations). 
 
