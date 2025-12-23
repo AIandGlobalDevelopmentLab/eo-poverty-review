@@ -404,7 +404,14 @@ Kazuki Sakamoto, Connor T. Jerzak, Adel Daoud. Planetary Causal Inference: Impli
 }
 ```
 
-[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?resize=1187%2C1536&ssl=1">](https://connorjerzak.com/gci-overview/)
+```
+                     ██████  ██████  ██
+                     ██  ██  ██      ██
+                     ██████  ██      ██
+                     ██      ██      ██
+                     ██      ██████  ██
 
-[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/09/EOPapers.png?w=1280&ssl=1">](https://connorjerzak.com/gci-overview/)
+                         PLANETARY
+                      CAUSAL INFERENCE
+```
 
