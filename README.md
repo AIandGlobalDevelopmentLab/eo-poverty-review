@@ -405,13 +405,20 @@ Kazuki Sakamoto, Connor T. Jerzak, Adel Daoud. Planetary Causal Inference: Impli
 ```
 
 ```
-                     ██████  ██████  ██
-                     ██  ██  ██      ██
-                     ██████  ██      ██
-                     ██      ██      ██
-                     ██      ██████  ██
-
-                         PLANETARY
-                      CAUSAL INFERENCE
+          .::.   .::.   .::.   .::.   .::.   .::.   .::.
+          '::'   '::'   '::'   '::'   '::'   '::'   '::'
+           ||     ||     ||     ||     ||     ||     ||
+           \/     \/     \/     \/     \/     \/     \/
+ 
+                       ██████  ██████  ██
+                       ██  ██  ██      ██
+                       ██████  ██      ██
+                       ██      ██      ██
+                       ██      ██████  ██
+ 
+      P L A N E T A R Y   C A U S A L   I N F E R E N C E
+      ___________________________________________________
+        From Pixels to People  ::  From Orbit to Outcome
 ```
+
 
