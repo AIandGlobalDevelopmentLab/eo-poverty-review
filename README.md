@@ -394,7 +394,7 @@ Photogrammetry and Remote Sensing* 183 (January): 228–39.
 
 ---
 
-## Review Reference<a id="references"></a>
+## Citation<a id="references"></a>
 Kazuki Sakamoto, Connor T. Jerzak, Adel Daoud. A Scoping Review of Earth Observation and Machine Learning for Causal Inference: Implications for the Geography of Poverty. In: Hall, Ola and Ibrahim Wahab (eds.), *Geography of Poverty*, 2026.
 [[PDF]](https://arxiv.org/pdf/2406.02584)
 ```
