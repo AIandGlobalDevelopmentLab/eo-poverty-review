@@ -1,8 +1,10 @@
 #  Awesome Papers on Earth Observation (EO) in Machine Learning (ML) and Causal Inference (CI)  <a id="overview"></a>
 
-*Description:* This repository contains a directory of papers on earth observation, causal inference, machine learning, and/or poverty research compiled by [Kaz Sakamoto](https://github.com/ksakamoto09) for a [scoping literature review](https://arxiv.org/abs/2406.02584) in collaboration with [Adel Daoud](https://github.com/adeldaoud) and [Connor T. Jerzak](https://github.com/cjerzak). To find associated `.bib` entries, see [`eo-poverty-review/citations`](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review/tree/main/citations). 
+*Description:* Earth observation is turning the planet into a living dataset -- and right now, some of most exciting work sits exactly at the intersection of EO $\times$ ML $\times$ causal inference: using pixels, time series, and multimodal remote-sensing data not just to predict what’s happening on Earth, but to explain why it’s happening and what interventions actually change outcomes.
 
-*Contribute:* You can additional papers for inclusion by opening [an issue](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review/issues) in this repo (feel free to suggest your own work!). 
+This repo is a curated on-ramp to that frontier: a growing, community-updated directory of papers that connect modern machine learning with rigorous causal questions in climate, development, and poverty research compiled by [Kaz Sakamoto](https://github.com/ksakamoto09) for a [scoping literature review](https://arxiv.org/abs/2406.02584) in collaboration with [Adel Daoud](https://github.com/adeldaoud) and [Connor T. Jerzak](https://github.com/cjerzak). To find associated `.bib` entries, see [`eo-poverty-review/citations`](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review/tree/main/citations). 
+
+*Contribute:* You can add additional papers for inclusion by opening [an issue](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review/issues) in this repo (feel free to suggest your own work!). 
 
 [**Overview**](#overview)
 | [**Literature Directory**](#directory)
